@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules/
+
+# dotenv environment variable files
+.env
+# Playwright
+test-results/
+
+# Operating System Files
+.DS_Store
+.DS_Store?
