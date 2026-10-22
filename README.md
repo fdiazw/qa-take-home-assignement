@@ -12,8 +12,6 @@ USERNAME = 'user134@email.com'
 PASSWORD = 'admin1234.'
 ```
 
-5. Run `npm run smoke-test` to run the smoke test cases
-
 # 2. Running scenarios
 
 1. Go to package.json and note there are some scripts you can run
